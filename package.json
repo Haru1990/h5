@@ -9,9 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "PC",
+    "react",
     "H5",
-    "multipages"
+    "multipages",
+    "webpack5"
   ],
   "author": "fangxu",
   "license": "ISC",

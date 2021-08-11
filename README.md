@@ -1,8 +1,12 @@
 # H5 应用模板框架
 
+h5 project multi pagge with rem 
+
 
 ## 框架详情
-- `webpack 5`
+- `node v12.14.1`
+- `npm 6.13.4`
+- `webpack 5.49.0`
 - `react 17.0.2`
 - `rem + postcss` 适配
 - `multi pages`
